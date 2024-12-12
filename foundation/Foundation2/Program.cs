@@ -3,7 +3,9 @@ using System;
 using System.Collections.Generic;
 
 // Class to represent an Address
-class Address
+
+
+class Address 
 {
     private string _street;
     private string _city;
